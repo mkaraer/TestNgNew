@@ -14,15 +14,12 @@ import org.testng.annotations.Test;
 
 import java.util.List;
 
-public class OrangeDeneme  {
+public class OrangeDeneme extends TestBase  {
 
     @Test
-    public void OrangeTest() {
-        WebDriverManager.chromedriver().clearPreferences();
-        WebDriverManager.chromedriver().setup();
-        WebDriver driver=new ChromeDriver();
-        //WebdriverManager.chromedriver().setup();
-       // WebDriver driver=new ChromeDriver();
+    public void OrangeTest()  {
+
+
             driver.get("https://opensource-demo.orangehrmlive.com");
 
         OrangeHomePage or = new OrangeHomePage();
