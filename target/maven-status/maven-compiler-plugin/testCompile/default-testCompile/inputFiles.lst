@@ -1,41 +1,47 @@
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\MultipleTaps.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\BearSoftware.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\DependenciesTest.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\Amazon.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\ValidationUserPass.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\WebTablesexample.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\ValidationUserPassNegative.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\ScrollDown.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\com\cybertek\utilities\utilities\TestBase.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\pageObject\OrangeTest.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\MethodValidation.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\com\cybertek\utilities\Exxample.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\pageObject\LoginTestWithProperties.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\FileExistTest.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\denemeMethods.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\ErrorMessageValidation.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\verifyTextDisaapearTest.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\recap\AmazonTestNg.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\com\cybertek\utilities\pages\PrestashopHomePage.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\FileUpload.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\OrderOfThings.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\com\cybertek\utilities\utilities\Singleton.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\com\cybertek\utilities\ConfigurationReader.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\com\cybertek\utilities\pages\OrangeHomePage.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\SoftAssertion.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\ExceptionDemo.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\MoreDependenciesTest.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\HoverTest.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\com\cybertek\utilities\pages\HomePage.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\MixedUpDependincies.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\EtsyWithSoftAssert.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\com\cybertek\utilities\utilities\Driver.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\recap\Soft.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\com\cybertek\utilities\GoogleDemo.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\scrollTest.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\FaceBookPage.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\orange.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\iFrame.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\PopUp.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\Xmobile.java
-C:\Users\KIDS ACADEMY\IdeaProjects\TechProFirstProject\src\test\java\tests\DoubleClick.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\google1.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\com\cybertek\utilities\pages\OrangeHomePage.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\pageObject\OrangeTest.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\DependenciesTest.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\MoreDependenciesTest.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\ValidationUserPassNegative.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\Bear.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\orange.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\MethodValidation.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\WebTablesexample.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\com\cybertek\utilities\utilities\TestBase.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\FileUpload.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\OrderOfThings.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\Xmobile.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\com\cybertek\utilities\utilities\Singleton.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\Amazon.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\com\cybertek\utilities\ConfigurationReader.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\FaceBookPage.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\FileExistTest.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\com\cybertek\utilities\pages\HomePage.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\ErrorMessageValidation.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\denemeMethods.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\PopUp.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\scrollTest.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\Amazon2.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\HoverTest.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\com\cybertek\utilities\Exxample.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\com\cybertek\utilities\GoogleDemo.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\recap\Soft.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\EtsyWithSoftAssert.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\ExceptionDemo.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\OrangeKendim.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\iFrame.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\ScrollDown.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\com\cybertek\utilities\utilities\Driver.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\BearSoftware.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\MultipleTaps.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\DoubleClick.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\verifyTextDisaapearTest.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\ValidationUserPass.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\com\cybertek\utilities\pages\PrestashopHomePage.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\SoftAssertion.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\OrangeDeneme.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\pageObject\LoginTestWithProperties.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\pageObject\Grey.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\recap\AmazonTestNg.java
+C:\Users\asdda\Desktop\OrangeHRM\TestNgNew\src\test\java\tests\MixedUpDependincies.java

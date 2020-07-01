@@ -39,4 +39,12 @@ public class Amazon2{
              driver.findElement(By.id("signInSubmit")).click();
 
              }
+             @Test
+    public void program(){
+
+
+
+
+
+             }
              }
