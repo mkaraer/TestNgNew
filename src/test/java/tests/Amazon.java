@@ -19,16 +19,17 @@ public class Amazon {
         driver.findElement(By.id("searchDropdownBox")).click();
         WebElement product = driver.findElement(By.xpath("//*[@id='searchDropdownBox']"));
         Select productDropdown = new Select(product);
-         productDropdown.getFirstSelectedOption().getText();
+         //productDropdown.getFirstSelectedOption().getText();
         productDropdown.selectByVisibleText("Baby");
         List<WebElement> r= productDropdown.getOptions();
 
-        productDropdown.getFirstSelectedOption().click();
+       // productDropdown.getFirstSelectedOption().click();
 //
         for (WebElement option:r) {
             System.out.println(option.getText());
+            System.out.println(".............");
         }
-          driver.findElement(By.xpath("//select[@class='nav-search-dropdown searchSelect']//option[10]")).click();
+         // driver.findElement(By.xpath("//select[@class='nav-search-dropdown searchSelect']//option[10]")).click();
     }
 
 }
