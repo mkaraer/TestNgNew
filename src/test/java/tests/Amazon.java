@@ -27,7 +27,7 @@ public class Amazon {
 //
         for (WebElement option:r) {
             System.out.println(option.getText());
-            System.out.println(".............");
+           //cikarttim
         }
          // driver.findElement(By.xpath("//select[@class='nav-search-dropdown searchSelect']//option[10]")).click();
     }
